@@ -1,0 +1,23 @@
+.parrafo{
+    color: rgb(2, 2, 20);
+    font-size: 20px;
+}
+body{
+    background-color:pink;
+}
+#lalala {
+    font-size: 50px;
+    width: 100%;
+}
+h1{
+    pad: 10px;
+}
+.primerdiv{
+    background-color: rgb(115, 41, 41);
+    margin-bottom: 20px;
+}
+
+.segundodiv{
+    background-color: rgb(34, 160, 46);
+    
+}
